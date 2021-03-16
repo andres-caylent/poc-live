@@ -1,0 +1,4 @@
+resources:
+- ./pre-prod
+- ./production
+namePrefix: poc-
