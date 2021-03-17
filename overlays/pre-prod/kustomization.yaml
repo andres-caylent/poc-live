@@ -10,4 +10,4 @@ namespace: preprod-namespace
 images:
 - name: docker.io/lucerozuazquita/basic-app:main
   newName: docker.io/lucerozuazquita/basic-app
-  newTag: f3931d6a81246336199b9fe32f7dfb4e18cfab6c
+  newTag: 5ea9e57c8a8679784dbfdaf83633dfeb3286588b
