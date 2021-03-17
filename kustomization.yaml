@@ -1,4 +1,5 @@
 resources:
+- ./integration
 - ./pre-prod
 - ./production
 namePrefix: poc-

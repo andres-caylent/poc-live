@@ -1,0 +1,13 @@
+bases:
+- ../../base
+
+resources:
+- namespace.yaml
+
+namePrefix: int-
+namespace: int-namespace
+
+# images:
+# - name: docker.io/lucerozuazquita/basic-app:main
+#   newName: docker.io/lucerozuazquita/basic-app
+#   newTag: 1.3.5
