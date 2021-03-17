@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: docker.io/lucerozuazquita/basic-app:main
+        image: docker.io/lucerozuazquita/monorepo:main
         ports:
         - containerPort: 80
