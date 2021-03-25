@@ -2,3 +2,8 @@ resources:
   - deployment.yaml
   - service.yaml
   
+
+images:
+- name: docker.io/lucerozuazquita/monorepo:main
+  newName: docker.io/lucerozuazquita/monorepo
+  newTag: f3931d6a81246336199b9fe32f7dfb4e18cfab6c  
