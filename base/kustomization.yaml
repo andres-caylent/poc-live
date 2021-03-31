@@ -6,4 +6,4 @@ resources:
 images:
 - name: docker.io/lucerozuazquita/monorepo:main
   newName: docker.io/lucerozuazquita/monorepo
-  newTag: 19526b684c4e72381da026c8364b8328e197615c
+  newTag: 1d158eb0b38d0747f0b6adbfe2b7163769a1e7ea
